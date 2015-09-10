@@ -1,0 +1,28 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/CMyLoading.js",
+        "src/GC.js",
+        "src/CMainMenu.js",
+        "src/CTile.js",
+        "src/CGame.js",
+        "src/CPopLayerRoot.js",
+        "src/CGameOver.js",
+        "src/CAbout.js",
+        "src/CDataManager.js",
+        "src/CSuccess.js",
+        "src/CAudio.js"
+    ]
+}

@@ -1,0 +1,11 @@
+var GC = GC || {};
+GC.size = cc.size(640,960);
+GC.tileW = 158;
+GC.tileH = 238;
+GC.Black = cc.color(0,0,0,255);
+GC.White = cc.color(255,255,255,255);
+GC.Green = cc.color(0,255,0,255);
+GC.Yellow = cc.color(255,255,0,255);
+GC.Red = cc.color(255,0,0,255);
+GC.MaxTileIndex = 50;
+GC.Music = "JIJIJNIHFACFGCFGHJJIJIJGIHFACFGCHNFFGHIJEKJIDJIHGIJI";
